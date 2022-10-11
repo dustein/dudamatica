@@ -1,0 +1,15 @@
+
+body {
+    text-align: center;
+}
+#operacao {
+    font-size: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.operadores {
+    border: solid green;
+}
